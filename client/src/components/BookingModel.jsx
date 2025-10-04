@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import { addDoc, collection } from "firebase/firestore";
-import { db } from "../firebase/firebaseConfig";
-import emailjs from "@emailjs/browser";
+// import { addDoc, collection } from "firebase/firestore";
+// import { db } from "../firebase/firebaseConfig";
+// import emailjs from "@emailjs/browser";
 
 const BookingModel = ({ room, onClose }) => {
     const [formData, setFormData] = useState({
@@ -16,54 +16,54 @@ const BookingModel = ({ room, onClose }) => {
     const handleChange = (e) =>
         setFormData({ ...formData, [e.target.name]: e.target.value });
 
-    const handleProceedToPayment = async () => {
-        const options = {
-            key: "rzp_test_abc123xyz",
-            amount: room.price_per_night_inr * 100,
-            currency: "INR",
-            name: room.name,
-            description: "Room Booking",
-            handler: async function (response) {
-                // ✅ Save booking
-                await addDoc(collection(db, "Bookings"), {
-                    ...formData,
-                    roomId: room.id,
-                    roomName: room.name,
-                    price: room.price_per_night_inr,
-                    paymentId: response.razorpay_payment_id,
-                    status: "confirmed",
-                    bookedAt: new Date(),
-                });
+    // const handleProceedToPayment = async () => {
+    //     const options = {
+    //         key: "rzp_test_abc123xyz",
+    //         amount: room.price_per_night_inr * 100,
+    //         currency: "INR",
+    //         name: room.name,
+    //         description: "Room Booking",
+    //         handler: async function (response) {
+    //             // ✅ Save booking
+    //             await addDoc(collection(db, "Bookings"), {
+    //                 ...formData,
+    //                 roomId: room.id,
+    //                 roomName: room.name,
+    //                 price: room.price_per_night_inr,
+    //                 paymentId: response.razorpay_payment_id,
+    //                 status: "confirmed",
+    //                 bookedAt: new Date(),
+    //             });
 
-                // ✅ Send email using EmailJS
-                emailjs
-                    .send(
-                        "YOUR_SERVICE_ID",
-                        "YOUR_TEMPLATE_ID",
-                        {
-                            name: formData.name,
-                            email: formData.email,
-                            roomName: room.name,
-                            checkIn: formData.checkIn,
-                            checkOut: formData.checkOut,
-                            guests: formData.guests,
-                            price: room.price_per_night_inr,
-                        },
-                        "YOUR_PUBLIC_KEY"
-                    )
-                    .then(() => console.log("Email sent successfully!"))
-                    .catch((err) => console.error("Email send error:", err));
+    //             // ✅ Send email using EmailJS
+    //             emailjs
+    //                 .send(
+    //                     "YOUR_SERVICE_ID",
+    //                     "YOUR_TEMPLATE_ID",
+    //                     {
+    //                         name: formData.name,
+    //                         email: formData.email,
+    //                         roomName: room.name,
+    //                         checkIn: formData.checkIn,
+    //                         checkOut: formData.checkOut,
+    //                         guests: formData.guests,
+    //                         price: room.price_per_night_inr,
+    //                     },
+    //                     "YOUR_PUBLIC_KEY"
+    //                 )
+    //                 .then(() => console.log("Email sent successfully!"))
+    //                 .catch((err) => console.error("Email send error:", err));
 
-                alert("Booking successful! Confirmation email sent.");
-                onClose();
-            },
-            prefill: { name: formData.name, contact: formData.phone },
-            theme: { color: "#4f46e5" },
-        };
+    //             alert("Booking successful! Confirmation email sent.");
+    //             onClose();
+    //         },
+    //         prefill: { name: formData.name, contact: formData.phone },
+    //         theme: { color: "#4f46e5" },
+    //     };
 
-        const rzp = new window.Razorpay(options);
-        rzp.open();
-    };
+    //     const rzp = new window.Razorpay(options);
+    //     rzp.open();
+    // };
 
     const inputs = [
         { name: "name", label: "Full Name", placeholder: "John Doe", type: "text" },
@@ -102,7 +102,7 @@ const BookingModel = ({ room, onClose }) => {
                     {/* Buttons */}
                     <div className="flex flex-col sm:flex-row gap-3 mt-4">
                         <button
-                            onClick={handleProceedToPayment}
+                            // onClick={handleProceedToPayment}
                             className="flex-1 bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-3 rounded-lg transition"
                         >
                             Proceed to Payment
