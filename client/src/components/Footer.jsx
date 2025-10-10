@@ -44,7 +44,7 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                <div className='max-w-80'>
+                {/* <div className='max-w-80'>
                     <p className='font-playfair text-lg text-gray-800'>STAY UPDATED</p>
                     <p className='mt-3 text-sm'>
                         Subscribe to our newsletter for inspiration and special offers.
@@ -52,11 +52,11 @@ const Footer = () => {
                     <div className='flex items-center mt-4'>
                         <input type="text" className='bg-white rounded-l border border-gray-300 h-9 px-3 outline-none' placeholder='Your email' />
                         <button className='flex items-center justify-center bg-black h-9 w-9 aspect-square rounded-r'>
-                            {/* Arrow icon */}
+                           
                             <img src={assets.arrowIcon} alt="arrow-icon"  className='w-3.5 invert'/>
                         </button>
                     </div>
-                </div>
+                </div> */}
             </div>
             <hr className='border-gray-300 mt-8' />
             <div className='flex flex-col md:flex-row gap-2 items-center justify-between py-5'>

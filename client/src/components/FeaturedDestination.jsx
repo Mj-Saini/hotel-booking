@@ -10,7 +10,7 @@ const FeaturedDestination = () => {
 
         <Title title="Featured Destination" subTitle="Discover  our handpicked selection of exceptional properties around the world, offering unparalleled luxury and unforgettable experiences."/>
         <div className='flex flex-wrap justify-center gap-6 mt-20'>
-        {HotelData?.slice(0,32).map((room, index) => {
+        {HotelData?.slice(0,8).map((room, index) => {
           return (
             <div className='w-full sm:w-[45%] md:w-[30%] lg:w-[22%]' key={index}>
               <HotelCard key={index} room={room} index={index} />

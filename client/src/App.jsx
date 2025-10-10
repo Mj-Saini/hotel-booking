@@ -11,6 +11,7 @@ import HotelReg from "./components/HotelReg";
 import About from "./pages/About";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsAndConditions from "./pages/TermsAndConditions";
+import Experince from "./pages/Experince";
 
 const App = () => {
   const inOwnerPath = useLocation().pathname.includes("owner");
@@ -27,6 +28,7 @@ const App = () => {
           <Route path="/my-bookings" element={<MyBookings />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} /> 
           <Route path="/terms-and-conditions" element={<TermsAndConditions />} /> 
+          <Route path="/experience" element={<Experince />} /> 
         </Routes>
       </div>
       <Footer/>

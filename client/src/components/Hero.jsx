@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Hero = () => {
   return (
-    <div className='flex flex-col items-start justify-center px-6 md:px-16 lg:px-24 xl:px-32  text-white bg-[url("/src/assets/heroImage.png")] bg-no-repeat bg-cover bg-center h-[150vh] md:h-screen'>
+    <div className='flex flex-col items-start justify-center px-6 md:px-16 lg:px-24 xl:px-32  text-white bg-[url("/src/assets/heroImage.png")] bg-no-repeat bg-cover bg-center h-screen'>
 
 <p className='bg-[#49b9ff]/50 px-3.5 py-1 rounded-full  md:mt-20 text-center mx-auto sm:mx-0'>The Ultimate Hotel Experience</p>
 <h1 className='font-playfair text-2xl text-center md:text-start md:text-5xl md:text-[56px] md:leading-[56px] font-bold md:font-extrabold max-w-2xl mt-4'>Discover Your Perfect
@@ -12,7 +12,7 @@ Getaway Destination</h1>
 hotels and resorts. Start your journey today.</p>
 
 
-  <form className='bg-white text-gray-500 rounded-lg px-6 py-4   flex flex-wrap md:flex-row max-md:items-start gap-4 max-md:mx-auto mt-10 md:mt-3'>
+  {/* <form className='bg-white text-gray-500 rounded-lg px-6 py-4   flex flex-wrap md:flex-row max-md:items-start gap-4 max-md:mx-auto mt-10 md:mt-3'>
 
             <div>
                 <div className='flex items-center gap-2'>
@@ -55,7 +55,7 @@ hotels and resorts. Start your journey today.</p>
                 </svg>
                 <span>Search</span>
             </Link>
-        </form>
+        </form> */}
     </div>
   )
 }
