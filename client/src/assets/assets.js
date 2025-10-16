@@ -770,10 +770,10 @@ export const HotelData=[
       "area": "MI Road",
       "price_per_night_inr": 1200,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/hotelpinkhorizon1.jpg",
-      "image2_url": "https://example.com/hotelpinkhorizon2.jpg",
-      "image3_url": "https://example.com/hotelpinkhorizon3.jpg",
-      "image4_url": "https://example.com/hotelpinkhorizon4.jpg",
+      "image1_url": "https://media.istockphoto.com/id/1370825295/photo/modern-hotel-room-with-double-bed-night-tables-tv-set-and-cityscape-from-the-window.jpg?s=612x612&w=0&k=20&c=QMXz9HJVhU-8MtBYyeJxtqLz90j7r0SrR6FTWniPkgc=",
+      "image2_url": "https://media.istockphoto.com/id/1050564510/photo/3d-rendering-beautiful-luxury-bedroom-suite-in-hotel-with-tv.jpg?s=612x612&w=0&k=20&c=ZYEso7dgPl889aYddhY2Fj3GOyuwqliHkbbT8pjl_iM=",
+      "image3_url": "https://assets-news.housing.com/news/wp-content/uploads/2022/11/25115530/image6-20.jpg",
+      "image4_url": "https://t3.ftcdn.net/jpg/02/71/08/28/360_F_271082810_CtbTjpnOU3vx43ngAKqpCPUBx25udBrg.jpg",
       "description": "Budget-friendly hotel located near MI Road with clean rooms and rooftop restaurant."
     },
     {
@@ -784,10 +784,10 @@ export const HotelData=[
       "area": "Kukas",
       "price_per_night_inr": 2500,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/royalheritage1.jpg",
-      "image2_url": "https://example.com/royalheritage2.jpg",
-      "image3_url": "https://example.com/royalheritage3.jpg",
-      "image4_url": "https://example.com/royalheritage4.jpg",
+      "image1_url": "https://plus.unsplash.com/premium_photo-1661964402307-02267d1423f5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000",
+      "image2_url": "https://i.pinimg.com/236x/4d/19/0b/4d190b4b429465adf0f4aa1bd8a9222a.jpg",
+      "image3_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ce55f9141215185.624f4d9f805d9.jpg",
+      "image4_url": "https://i.pinimg.com/564x/64/8c/6f/648c6fbc2b4da9c936d70d0468d6d880.jpg",
       "description": "A boutique heritage stay offering spacious rooms with traditional Rajasthani interiors."
     },
     {
@@ -798,10 +798,12 @@ export const HotelData=[
       "area": "Tonk Road",
       "price_per_night_inr": 3200,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/goldentulip1.jpg",
-      "image2_url": "https://example.com/goldentulip2.jpg",
-      "image3_url": "https://example.com/goldentulip3.jpg",
-      "image4_url": "https://example.com/goldentulip4.jpg",
+      "image1_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "image2_url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "image3_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "image4_url": "https://i.pinimg.com/236x/4d/19/0b/4d190b4b429465adf0f4aa1bd8a9222a.jpg"
+
+,
       "description": "Modern hotel with rooftop pool, banquet facilities, and international dining."
     },
     {
@@ -812,10 +814,11 @@ export const HotelData=[
       "area": "Bani Park",
       "price_per_night_inr": 1800,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/umaidbhawan1.jpg",
-      "image2_url": "https://example.com/umaidbhawan2.jpg",
-      "image3_url": "https://example.com/umaidbhawan3.jpg",
-      "image4_url": "https://example.com/umaidbhawan4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257718596.jpg?k=6b51f53ef71e15a50a381ee32c732bf59f6549e2f10e100a06cc91dd10d09025&o=&hp=1",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257276384.jpg?k=fa64cae38a878c1fc52feec5a9c28e1346a203691280323401926787f3e7465d&o=&hp=1",
+      "image3_url": "https://images.trvl-media.com/lodging/2000000/1080000/1071900/1071809/da1ab02b.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/688129955.jpg?k=c5e74addc2f4dca7ae1b4556a6c51a6f8d6f8f2c339d0b8623fb1005c0e216d0&o=&hp=1"
+,
       "description": "Popular heritage-style hotel with traditional architecture and garden views."
     },
     {
@@ -826,10 +829,10 @@ export const HotelData=[
       "area": "Govind Marg",
       "price_per_night_inr": 4500,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/ramadajaipur1.jpg",
-      "image2_url": "https://example.com/ramadajaipur2.jpg",
-      "image3_url": "https://example.com/ramadajaipur3.jpg",
-      "image4_url": "https://example.com/ramadajaipur4.jpg",
+      "image1_url": "https://images.trvl-media.com/lodging/39000000/38650000/38648400/38648393/c8f88180.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353890487.jpg?k=ea01c1d4b31f62952a355b69e682c65f45651842d0ca0a0bf24a05238ec997b2&o=&hp=1",
+      "image3_url": "https://images.trvl-media.com/lodging/39000000/38650000/38648400/38648393/8b261be0.jpg?impolicy=fcrop&w=1200&h=800&quality=medium",
+      "image4_url": "https://images.trvl-media.com/lodging/39000000/38650000/38648400/38648393/63bcd7ec.jpg?impolicy=fcrop&w=1200&h=800&quality=medium",
       "description": "Luxury hotel with spa, rooftop dining, and excellent city connectivity."
     },
     {
@@ -840,10 +843,10 @@ export const HotelData=[
       "area": "Civil Lines",
       "price_per_night_inr": 2800,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/lemontree1.jpg",
-      "image2_url": "https://example.com/lemontree2.jpg",
-      "image3_url": "https://example.com/lemontree3.jpg",
-      "image4_url": "https://example.com/lemontree4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86756718.jpg?k=1e5618d5a6a4f1ffc2b7b41f66e35a4520664d798358b74ad72dce784d7ebd85&o=&hp=1",
+      "image2_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIHeNvBZjw4lYYoX_QJUmaN7JVk8LZ8nKS0HF2UmTJwIWus1aTEe3W878yODnBcd-K9c&usqp=CAU",
+      "image3_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/05/33/eb/swimming-pool.jpg?w=900&h=500&s=1",
+      "image4_url": "https://pix10.agoda.net/hotelImages/444126/-1/837aa2ade2f5095b5a196b082f5697a6.jpg?ce=0&s=414x232",
       "description": "Contemporary business hotel with rooftop pool and multi-cuisine restaurant."
     },
     {
@@ -854,10 +857,10 @@ export const HotelData=[
       "area": "Amer Road",
       "price_per_night_inr": 7000,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/tridentjaipur1.jpg",
-      "image2_url": "https://example.com/tridentjaipur2.jpg",
-      "image3_url": "https://example.com/tridentjaipur3.jpg",
-      "image4_url": "https://example.com/tridentjaipur4.jpg",
+      "image1_url": "https://r1imghtlak.mmtcdn.com/a08f3596236f11e8bdbc025f77df004f.jpg",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/32617602.jpg?k=71bdc7a74fe80cd53bde08971867bf6579c456ed646b054ba7be4674085a2817&o=&hp=1",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33118049.jpg?k=8cb40ead813432452916348829776363d70df2f7a5a8f23197168628a5e0c4ed&o=&hp=1",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240127415.jpg?k=98864df41f995e64d54f509c0dce818d9476db954922f38d65b0a97839449b5b&o=&hp=1",
       "description": "Premium lake-facing hotel with landscaped gardens and luxury amenities."
     },
     {
@@ -868,10 +871,10 @@ export const HotelData=[
       "area": "Hawa Sadak",
       "price_per_night_inr": 6500,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/hiltonjaipur1.jpg",
-      "image2_url": "https://example.com/hiltonjaipur2.jpg",
-      "image3_url": "https://example.com/hiltonjaipur3.jpg",
-      "image4_url": "https://example.com/hiltonjaipur4.jpg",
+      "image1_url": "https://www.hilton.com/im/en/JAIGHHI/3067273/twin-bed-room-day-shot.jpg?impolicy=crop&cw=4789&ch=3193&gravity=NorthWest&xposition=105&yposition=0&rw=1280&rh=854",
+      "image2_url": "https://www.hilton.com/im/en/JAIGHHI/3065453/guest-room-living-bath.jpg?impolicy=crop&cw=4614&ch=3076&gravity=NorthWest&xposition=69&yposition=0&rw=1280&rh=854",
+      "image3_url": "https://www.hilton.com/im/en/JAIGHHI/18227974/jaigh-suite-living-area.jpg?impolicy=crop&cw=5000&ch=3333&gravity=NorthWest&xposition=0&yposition=-1&rw=1280&rh=854",
+      "image4_url": "https://content.r9cdn.net/rimg/himg/6d/ef/b8/expedia_group-2108712-a2b768-531068.jpg?width=500&height=350&xhint=540&yhint=333&crop=true",
       "description": "Upscale hotel with rooftop lounge, spa facilities, and city views."
     },
     {
@@ -882,10 +885,10 @@ export const HotelData=[
       "area": "Bhawani Singh Road",
       "price_per_night_inr": 28000,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/rambagh1.jpg",
-      "image2_url": "https://example.com/rambagh2.jpg",
-      "image3_url": "https://example.com/rambagh3.jpg",
-      "image4_url": "https://example.com/rambagh4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/239614656.jpg?k=98c1bdff4165a9b12282f89138a34c6fff17d205505d27b98f3b3a2ee12cebf4&o=&hp=1",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/239614664.jpg?k=20e9f95d5eb176f5cdccf07807d92684a9bcaf552958296d8875c1a59219d82c&o=&hp=1",
+      "image3_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/f7/e0/98/suvarna-mahal-royal-indian.jpg?w=900&h=500&s=1",
+      "image4_url": "https://www.experiencetravelgroup.com/wp-content/uploads/2025/07/1-hero-Taj-Rambagh-Palace-6-1.jpg",
       "description": "Former royal residence turned luxury palace hotel offering world-class services."
     },
     {
@@ -896,10 +899,10 @@ export const HotelData=[
       "area": "Kukas",
       "price_per_night_inr": 22000,
       "amenities": "AC,Breakfast,Swimming Pool",
-      "image1_url": "https://example.com/fairmont1.jpg",
-      "image2_url": "https://example.com/fairmont2.jpg",
-      "image3_url": "https://example.com/fairmont3.jpg",
-      "image4_url": "https://example.com/fairmont4.jpg",
+      "image1_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6913-95:3by2?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=223&qlt=80",
+      "image2_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6546-41:4by3?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=251&qlt=80",
+      "image3_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_5819-35:4by3?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=251&qlt=80",
+      "image4_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6546-39:4by3?fmt=jpg&op_usm=1.75,0.3,2,0&resMode=sharp2&iccEmbed=true&icc=sRGB&dpr=on,1.5&wid=335&hei=251&qlt=80",
       "description": "Opulent Mughal-style architecture with luxury spa, fine dining, and royal décor."
     },
     {
@@ -918,10 +921,10 @@ export const HotelData=[
         "Free WiFi",
         "Airport Transfer"
       ],
-      "image1_url": "https://example.com/oberoi_rajvilas_1.jpg",
-      "image2_url": "https://example.com/oberoi_rajvilas_2.jpg",
-      "image3_url": "https://example.com/oberoi_rajvilas_3.jpg",
-      "image4_url": "https://example.com/oberoi_rajvilas_4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/93398363.jpg?k=e9bda4c9541d94ffd1d4424f7f943d0116929e9a140983394f12d86331d94f51&o=&hp=1",
+      "image2_url": "https://thumbs.dreamstime.com/b/hotel-room-beautiful-orange-sofa-included-43642330.jpg",
+      "image3_url": "https://r1imghtlak.mmtcdn.com/8a455fe0-5be5-4596-aeb4-bf436fc991d1.jpg",
+      "image4_url": "https://www.oberoihotels.com/-/media/oberoi-hotel/the-oberoi-rajvilas/rajvilas-new/gallery/desktop1640x1292/16.jpg",
       "description": "Luxury resort with sprawling gardens, heritage-style villas, exquisite cuisine, spa and secluded ambiance just outside the city."
     },
     {
@@ -939,35 +942,15 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://example.com/samode_palace_1.jpg",
-      "image2_url": "https://example.com/samode_palace_2.jpg",
-      "image3_url": "https://example.com/samode_palace_3.jpg",
-      "image4_url": "https://example.com/samode_palace_4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22490300.jpg?k=32a2fe48b2d342e69639b7b80adb8ab3fe590e2e7443ddf983db552973b58aa9&o=&hp=1",
+      "image2_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr34VaK7Fyd1P-tqaKDGSSLZZ8QrgMA2_qOHb8GGvMmqEeJ7DZx-_PEM7IUrNphG8wa3Y&usqp=CAU",
+      "image3_url": "https://images.trvl-media.com/lodging/1000000/860000/857300/857268/5effe473.jpg?impolicy=fcrop&w=1200&h=800&quality=medium",
+      "image4_url": "https://r1imghtlak.mmtcdn.com/8cff5ac8090c11e9ad8d0242ac110002.jpg",
       "description": "A historic palace offering regal accommodations, traditional Rajasthani architecture, and modern amenities."
     },
+
     {
       "id": 46,
-      "name": "Trident Jaipur",
-      "city": "Jaipur",
-      "star_rating": 5,
-      "area": "Amber Fort Road, Jaipur, Rajasthan 302002, India",
-      "price_per_night_inr": 12000,
-      "amenities": [
-        "AC",
-        "Breakfast",
-        "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Free WiFi"
-      ],
-      "image1_url": "https://example.com/trident_jaipur_1.jpg",
-      "image2_url": "https://example.com/trident_jaipur_2.jpg",
-      "image3_url": "https://example.com/trident_jaipur_3.jpg",
-      "image4_url": "https://example.com/trident_jaipur_4.jpg",
-      "description": "A contemporary hotel offering luxurious rooms, a serene ambiance, and proximity to Amber Fort."
-    },
-    {
-      "id": 47,
       "name": "ITC Rajputana",
       "city": "Jaipur",
       "star_rating": 5,
@@ -981,14 +964,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://example.com/itc_rajputana_1.jpg",
-      "image2_url": "https://example.com/itc_rajputana_2.jpg",
-      "image3_url": "https://example.com/itc_rajputana_3.jpg",
-      "image4_url": "https://example.com/itc_rajputana_4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/628232305.jpg?k=b754bb6b0488c4944dc9554398d976edee233d54dbb939b58ce4a3c5a269a721&o=&hp=1",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/628232362.jpg?k=1f04663c830c6613f8c9cb26dea0c9753df2089184d3f16545b384d323a99126&o=&hp=1",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/628232300.jpg?k=36f9ff4b4c28515187703592d640f832f68f3dc51d8fe0af59a22cde2f15b7cf&o=&hp=1",
+      "image4_url": "https://media-cdn.tripadvisor.com/media/photo-s/03/f1/89/c1/itc-rajputana-jaipur.jpg",
       "description": "A blend of traditional Rajasthani architecture and modern luxury, offering world-class amenities."
     },
     {
-      "id": 48,
+      "id": 47,
       "name": "Le Meridien Jaipur",
       "city": "Jaipur",
       "star_rating": 5,
@@ -1002,10 +985,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://example.com/le_meridien_jaipur_1.jpg",
-      "image2_url": "https://example.com/le_meridien_jaipur_2.jpg",
-      "image3_url": "https://example.com/le_meridien_jaipur_3.jpg",
-      "image4_url": "https://example.com/le_meridien_jaipur_4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470311027.jpg?k=b57c7a7fad6c2236b1995562d4f0e0900f7c773eb89efd8aa2af7b025d6387f4&o=&hp=1",
+      "image2_url": "https://cache.marriott.com/content/dam/marriott-renditions/JAIMD/jaimd-king-guestroom-gardenview-1186-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/643562691.jpg?k=abb7897212d2c04241f2022dc8e9f9acab20d18526c6e0ba0814ac307b6c9e03&o=&hp=1",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/643562737.jpg?k=16c5fac3005eb8079ae3b158903ffe97d31a36a7127613a366e1ca694d7436f9&o=&hp=1",
       "description": "A luxurious resort offering spacious rooms, a tranquil environment, and a range of recreational activities."
     },
     {
@@ -1023,17 +1006,17 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.tajhotels.com/en-in/destination/hotels-in-jaipur/images/taj-amer.jpg",
-      "image2_url": "https://www.tajhotels.com/en-in/destination/hotels-in-jaipur/images/taj-amer-2.jpg",
-      "image3_url": "https://www.tajhotels.com/en-in/destination/hotels-in-jaipur/images/taj-amer-3.jpg",
-      "image4_url": "https://www.tajhotels.com/en-in/destination/hotels-in-jaipur/images/taj-amer-4.jpg",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413511584.jpg?k=f3e9196525ea6f135de6bd5a8a9e9fd515f93e6458514f741cddc21cc488441b&o=&hp=1",
+      "image2_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xnMCi0ikRTQy1_FsAexFhs9YeA4zz4YEXn7g_XrlTzUk9FR1Q7QNW38udCTqaaRLeCY&usqp=CAU",
+      "image3_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/a7/8b/67/caption.jpg?w=700&h=-1&s=1",
+      "image4_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/4f/66/cd/caption.jpg?w=1200&h=1200&s=1",
       "description": "A blend of traditional Rajas"
     },
 
 
     // Jaisalmer
   {
-    "id": 48,
+    "id": 49,
     "name": "Suryagarh Jaisalmer",
     "city": "Jaisalmer",
     "star_rating": 5,
@@ -1048,14 +1031,14 @@ export const HotelData=[
       "Free WiFi",
       "Airport Transfer"
     ],
-    "image1_url": "https://suryagarhcollection.com/wp-content/uploads/2020/07/suryagarh-exterior.jpg",
-    "image2_url": "https://suryagarhcollection.com/wp-content/uploads/2020/07/suryagarh-pool.jpg",
-    "image3_url": "https://suryagarhcollection.com/wp-content/uploads/2020/07/suryagarh-room.jpg",
-    "image4_url": "https://suryagarhcollection.com/wp-content/uploads/2020/07/suryagarh-dining.jpg",
+    "image1_url": "https://api.suryagarhcollection.com//media/lzmll1js/suryagarh_rooms_pavillion-room_1.jpg",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267846788.jpg?k=97c9d24fbc62f246ff5078376fd0474433a9830588496072ee858b869780f9e7&o=&hp=1",
+    "image3_url": "https://r1imghtlak.mmtcdn.com/d33b0f3665b011e9a0b30242ac110002.jpg",
+    "image4_url": "https://r1imghtlak.mmtcdn.com/d01f426af50711e78b3b0a209fbd0127.jpg",
     "description": "A modern fortress-style 5-star hotel built from golden sandstone, offering luxurious rooms, desert experiences, spa and fine dining."
   },
   {
-    "id": 49,
+    "id": 50,
     "name": "Jaisalmer Marriott Resort & Spa",
     "city": "Jaisalmer",
     "star_rating": 5,
@@ -1070,14 +1053,14 @@ export const HotelData=[
       "Free WiFi",
       "Fitness Centre"
     ],
-    "image1_url": "https://www.marriott.com/content/dam/marriott-renditions/JSMMC/jsmmc-exterior-001.jpg",
-    "image2_url": "https://www.marriott.com/content/dam/marriott-renditions/JSMMC/jsmmc-pool-001.jpg",
-    "image3_url": "https://www.marriott.com/content/dam/marriott-renditions/JSMMC/jsmmc-room-001.jpg",
-    "image4_url": "https://www.marriott.com/content/dam/marriott-renditions/JSMMC/jsmmc-dining-001.jpg",
+    "image1_url": "https://cache.marriott.com/content/dam/marriott-renditions/JSAMC/jsamc-twin-room-2786-hor-feat.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1920px:*",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479469069.jpg?k=584dbc75787b2665268261c573d2552194671281e55b7e28b3904d9153200c3c&o=&hp=1",
+    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479481383.jpg?k=c743a0913c4959546b9c5a239481547c6d63167fac523d952dace438028d4484&o=&hp=1",
+    "image4_url": "https://pix10.agoda.net/property/49403345/777744198/2ff85a208e733cf583fb317a5fbf92ec.jpeg?ce=0&s=414x232",
     "description": "Family-friendly luxury resort with modern amenities, spa, outdoor pools and easy access to city attractions."
   },
   {
-    "id": 50,
+    "id": 51,
     "name": "Taj Gorbandh Palace, Jaisalmer",
     "city": "Jaisalmer",
     "star_rating": 5,
@@ -1092,14 +1075,14 @@ export const HotelData=[
       "Free WiFi",
       "Airport Shuttle"
     ],
-    "image1_url": "https://www.tajhotels.com/content/dam/luxury/taj-gorbandh-palace-jaisalmer/exterior.jpg",
-    "image2_url": "https://www.tajhotels.com/content/dam/luxury/taj-gorbandh-palace-jaisalmer/pool.jpg",
-    "image3_url": "https://www.tajhotels.com/content/dam/luxury/taj-gorbandh-palace-jaisalmer/room.jpg",
-    "image4_url": "https://www.tajhotels.com/content/dam/luxury/taj-gorbandh-palace-jaisalmer/dining.jpg",
+    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527875960.jpg?k=e889eab5b75050accee16a300be841f23d7b9bc17f43e046de53fab154feb301&o=&hp=1",
+    "image2_url": "https://www.kayak.com/rimg/himg/92/f3/9f/expediav2-4476-5ee75b-639683.jpg?width=1366&height=768&crop=true",
+    "image3_url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/527862534.jpg?k=4ab42c098a16a9779ddd28b24b0f7fab1e5c79674edc96fdc46b6e21f179fb71&o=",
+    "image4_url": "https://images.trvl-media.com/lodging/1000000/900000/891800/891790/54a82fc0.jpg?impolicy=fcrop&w=1200&h=800&quality=medium",
     "description": "Luxury property from Taj offering regal architecture, landscaped gardens, spa and premium dining experiences."
   },
   {
-    "id": 51,
+    "id": 52,
     "name": "The Gulaal",
     "city": "Jaisalmer",
     "star_rating": 5,
@@ -1113,14 +1096,14 @@ export const HotelData=[
       "Restaurant",
       "Free WiFi"
     ],
-    "image1_url": "https://www.thegulaal.com/wp-content/uploads/2020/06/gulaal-exterior.jpg",
-    "image2_url": "https://www.thegulaal.com/wp-content/uploads/2020/06/gulaal-pool.jpg",
-    "image3_url": "https://www.thegulaal.com/wp-content/uploads/2020/06/gulaal-room.jpg",
-    "image4_url": "https://www.thegulaal.com/wp-content/uploads/2020/06/gulaal-dining.jpg",
+    "image1_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9KgfeoPuJxe36E7igIFTDXiLR0Xx-VDbeBQ&s",
+    "image2_url": "https://the-gulaal.hotels-rajasthan.com/data/Pics/OriginalPhoto/16097/1609733/1609733764/the-gulaal-jaisalmer-pic-21.JPEG",
+    "image3_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/75/a6/1b/suite-room.jpg?w=900&h=500&s=1",
+    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325008895.jpg?k=cccfabf024077e646b241fa21c97a6c69f7e5458267ffa4052f6c0c0ec809062&o=&hp=1",
     "description": "A boutique haveli-style luxury hotel with traditional Rajasthani décor, a small pool and personalized service."
   },
   {
-    "id": 52,
+    "id": 53,
     "name": "Fort Rajwada Jaisalmer",
     "city": "Jaisalmer",
     "star_rating": 5,
@@ -1135,14 +1118,14 @@ export const HotelData=[
       "Free WiFi",
       "Event Banquet"
     ],
-    "image1_url": "https://fortrajwada.com/wp-content/uploads/2019/10/fortrajwada-exterior.jpg",
-    "image2_url": "https://fortrajwada.com/wp-content/uploads/2019/10/fortrajwada-pool.jpg",
-    "image3_url": "https://fortrajwada.com/wp-content/uploads/2019/10/fortrajwada-room.jpg",
-    "image4_url": "https://fortrajwada.com/wp-content/uploads/2019/10/fortrajwada-dining.jpg",
+    "image1_url": "https://media.easemytrip.com/media/Hotel/SHL-22021480544532/Common/CommonaNEqs0.jpg",
+    "image2_url": "https://fortrajwada.com/images/Room%20Opposite%20Round%20Bed%204.jpg",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAeYukkCtahZgrWCnaSU285WV7deW0_kGjoyWK3-IBgZ36S27cYxcOv7QouX4dlersKPM&usqp=CAU",
+    "image4_url": "https://images.trvl-media.com/lodging/12000000/11980000/11973700/11973698/4e51a5b3.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
     "description": "Large palace-style hotel offering extensive facilities, banquet halls, pool and family-friendly services."
   },
   {
-    "id": 53,
+    "id": 54,
     "name": "WelcomHeritage Mandir Palace",
     "city": "Jaisalmer",
     "star_rating": 4,
@@ -1156,14 +1139,14 @@ export const HotelData=[
       "Free WiFi",
       "Rooftop Dining"
     ],
-    "image1_url": "https://www.welcomheritagehotels.in/assets/images/mandir-palace-exterior.jpg",
-    "image2_url": "https://www.welcomheritagehotels.in/assets/images/mandir-palace-interior.jpg",
-    "image3_url": "https://www.welcomheritagehotels.in/assets/images/mandir-palace-room.jpg",
-    "image4_url": "https://www.welcomheritagehotels.in/assets/images/mandir-palace-rooftop.jpg",
+    "image1_url": "https://media.easemytrip.com/media/Hotel/SHL-22031581745314/Common/CommonZXnUej.jpg",
+    "image2_url": "https://www.welcomheritagehotels.in/app/uploaded_files/hotel_room/-Golden%20Suite%201a41346.jpg",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRANQtj3Ul2qe1mzQmUkpF5yQFwDOEeBTYSE6HIYFm08bieu3BzX0vnhvnVHI1gWIRGscg&usqp=CAU",
+    "image4_url": "https://www.welcomheritagehotels.in/app/uploaded_files/hotel_room/-Deluxe%20Room%20(2)31024.jpg",
     "description": "Historic palace converted into a heritage hotel, with rooftop restaurant, cultural performances and a small pool."
   },
   {
-    "id": 54,
+    "id": 55,
     "name": "Hotel Lalgarh Fort & Palace",
     "city": "Jaisalmer",
     "star_rating": 4,
@@ -1176,14 +1159,14 @@ export const HotelData=[
       "Free WiFi",
       "Rooftop Terrace"
     ],
-    "image1_url": "https://www.hotellalgarhfortandpalace.com/wp-content/uploads/2018/05/lalgarh-exterior.jpg",
-    "image2_url": "https://www.hotellalgarhfortandpalace.com/wp-content/uploads/2018/05/lalgarh-interior.jpg",
-    "image3_url": "https://www.hotellalgarhfortandpalace.com/wp-content/uploads/2018/05/lalgarh-room.jpg",
-    "image4_url": "https://www.hotellalgarhfortandpalace.com/wp-content/uploads/2018/05/lalgarh-rooftop.jpg",
+    "image1_url": "https://daahy6akrtcj2.cloudfront.net/hotelsinjaisalmer.co.in/photos/1800310503.jpg",
+    "image2_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/436266876.jpg?k=fad9be2c76ee0063bcf0d8b98a81acb57790ba5d5a90aa499c39d9cd848a01ce&o=",
+    "image3_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/436266880.jpg?k=f3dd3f25fe2f2f32d154cb71bcaa0d344be37f7a1f4e8094c95e5fe4307983f1&o=",
+    "image4_url": "https://images.trvl-media.com/lodging/22000000/21610000/21605500/21605473/0367e518.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
     "description": "Heritage hotel close to the fort with traditional architecture, rooftop views and comfortable rooms."
   },
   {
-    "id": 55,
+    "id": 56,
     "name": "Hotel Tokyo Palace",
     "city": "Jaisalmer",
     "star_rating": 3,
@@ -1196,14 +1179,14 @@ export const HotelData=[
       "Rooftop Restaurant",
       "Airport Pickup"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/xxxxxx.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/yyyyyy.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/zzzzzz.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/aaaaaa.jpg",
+    "image1_url": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/145/708/295/_DSC7307_3_O/Palace-Hotel-Tokyo-Exterior.jpg?tr=w-656%2Ch-390%2Cfo-auto",
+    "image2_url": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Deluxe-Room-with-Balcony-King-Daytime-2023-Gallery-640x470.jpg",
+    "image3_url": "https://static-new.lhw.com/HotelImages/Rooms/Final/7058/room_7058_A1K_1_300x240.jpg",
+    "image4_url": "https://en.palacehoteltokyo.com/wp-content/uploads/Palace-Hotel-Tokyo-Deluxe-Room-with-Balcony-Bath-Evening-2023-Gallery-640x470.jpg",
     "description": "Popular mid-range hotel offering rooftop dining, free pick-up services and easy access to city attractions."
   },
   {
-    "id": 56,
+    "id": 57,
     "name": "Hotel Oasis Haveli Jaisalmer",
     "city": "Jaisalmer",
     "star_rating": 3,
@@ -1216,14 +1199,14 @@ export const HotelData=[
       "Rooftop Restaurant",
       "24-hour Front Desk"
     ],
-    "image1_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/1b/2a/oasis-haveli.jpg",
-    "image2_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/1b/2b/oasis-haveli-2.jpg",
-    "image3_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/1b/2c/oasis-haveli-3.jpg",
-    "image4_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/1b/2d/oasis-haveli-4.jpg",
+    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/593506677.jpg?k=dc53632e154d734c7efd74edbc37dca1f544906ad931574fc631d05d50914991&o=&hp=1",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/593506116.jpg?k=4f879b0d48d4f842d55c82546a2f871d107db1cfc9fc6e69c283992f201d8646&o=&hp=1",
+    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/593506676.jpg?k=5b1a23ba5d8e16d1db6dea18ed420a23036df2c8879d959d4b553818b47b4e67&o=&hp=1",
+    "image4_url": "https://content.jdmagicbox.com/comp/jaisalmer/x8/9999p2992.2992.130511121022.y5x8/catalogue/hotel-oasis-haveli-shiv-road-jaisalmer-hotels-rs-1001-to-rs-2000--05g6o7v8e9-250.jpg",
     "description": "Traditional haveli with comfortable rooms, rooftop seating and easy access to the Fort and bazaars."
   },
   {
-    "id": 57,
+    "id": 58,
     "name": "Hotel Desert Palace Jaisalmer",
     "city": "Jaisalmer",
     "star_rating": 4,
@@ -1237,16 +1220,16 @@ export const HotelData=[
       "Free WiFi",
       "Desert Tours"
     ],
-    "image1_url": "https://www.example.com/desert-palace-exterior.jpg",
-    "image2_url": "https://www.example.com/desert-palace-pool.jpg",
-    "image3_url": "https://www.example.com/desert-palace-room.jpg",
-    "image4_url": "https://www.example.com/desert-palace-dining.jpg",
+    "image1_url": "https://images.trvl-media.com/lodging/21000000/20200000/20192500/20192442/39dbafcf.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+    "image2_url": "https://content3.jdmagicbox.com/comp/jaisalmer/l9/9999p2992.2992.180611120055.a7l9/catalogue/the-desert-palace-jaisalmer-ho-jaisalmer-hotels-tmazr2v9n6.jpg",
+    "image3_url": "https://images.trvl-media.com/lodging/21000000/20200000/20192500/20192442/b3c25a24.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+    "image4_url": "https://images.trvl-media.com/lodging/21000000/20200000/20192500/20192442/43d44bd2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
     "description": "Comfortable upscale property with a pool and organized desert excursion packages."
   },
 
 //   Kota
   {
-    "id": 58,
+    "id": 59,
     "name": "Country Inn & Suites by Radisson, Kota",
     "city": "Kota",
     "star_rating": 4,
@@ -1261,14 +1244,14 @@ export const HotelData=[
       "Fitness Centre",
       "Parking"
     ],
-    "image1_url": "https://www.radissonhotels.com/en-us/hotels/country-inn-kota/_jcr_content/root/responsivegrid/hero/image.img.jpg/1602692039417.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164123458.jpg",
+    "image1_url": "https://radissonhotels.iceportal.com/image/country-inn-suites-by-radisson-kota/guest-room/16256-114457-f63779734_3XL.jpg",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375072469.jpg?k=f7a3d3850cfd383543745a7bd4525356ce8754e33dbac24e1b037eadef73fd85&o=&hp=1",
+    "image3_url": "https://media.easemytrip.com/media/Hotel/SHL-21102392978464/Bedroom/BedroomF7bDQu.jpg",
+    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277543788.jpg?k=d23d86e49ba857a3f448ca99bffeb84b52dc0139b4cfe246e006c2fdb1dd4f63&o=&hp=1",
     "description": "Modern business hotel near educational hubs, with outdoor pool, gym and family-friendly rooms."
   },
   {
-    "id": 59,
+    "id": 60,
     "name": "Clarks Premier, Kota",
     "city": "Kota",
     "star_rating": 4,
@@ -1283,14 +1266,14 @@ export const HotelData=[
       "Free WiFi",
       "Banquet Hall"
     ],
-    "image1_url": "https://www.theclarkshotels.com/clarks-premier/clarks-premier-kota/hotel-gallery/facade.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200123458.jpg",
+    "image1_url": "https://www.theclarkshotels.com/_next/image?url=https%3A%2F%2Fclarkscms.cinuniverse.com%2Fimages%2Fclarks%2Fko7b.jpg&w=1200&q=100",
+    "image2_url": "https://pix10.agoda.net/hotelImages/12548872/810961767/3105760e78406cd9a52d283e5ebe2dfe.jpg?ce=0&s=414x232",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMpOI6ZpEXkQ4pnsOHmHFvE8mhsw3BW9IZcehGY3jSHOh1ODjncZ_g6bnxnv8VZhZqU0&usqp=CAU",
+    "image4_url": "https://content3.jdmagicbox.com/v2/comp/kota-rajasthan/r2/9999px744.x744.221214161257.c5r2/catalogue/clarks-premier-kunadi-kota-rajasthan-hotels-mqoz32iz20.jpg",
     "description": "Popular premium hotel serving business and leisure travellers; close to coaching institutes and riverfront."
   },
   {
-    "id": 60,
+    "id": 61,
     "name": "Keys Prima by Lemon Tree Hotels, Kota",
     "city": "Kota",
     "star_rating": 4,
@@ -1305,14 +1288,14 @@ export const HotelData=[
       "Free WiFi",
       "Fitness Centre"
     ],
-    "image1_url": "https://www.lemontreehotels.com/keys-prima-hotel/kota/kota-hotels/keys-prima-kota-exterior.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210123458.jpg",
+    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/663608816.jpg?k=2bac1d854849c78133a816caf3d7a5f89c192791c4cf13ce02fc17042758f025&o=&hp=1",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max200/663615338.jpg?k=40ce310805154d3f3fc8d83742bd4ade2911241f726ab1e43f9b6b8363c469be&o=&hp=1",
+    "image3_url": "https://content.skyscnr.com/available/2203434030/2203434030_WxH.jpg",
+    "image4_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSt4HEnesBUAP7o9fX_G1NyjmBDYN604M3DgHqNnKnJJF_Xx8QuoCHsZjEzawKkTliPo&usqp=CAU",
     "description": "Well-known chain hotel near educational hubs with outdoor pool, spa and modern rooms."
   },
   {
-    "id": 61,
+    "id": 62,
     "name": "The Fern - An Ecotel Hotel, Kota",
     "city": "Kota",
     "star_rating": 4,
@@ -1327,14 +1310,14 @@ export const HotelData=[
       "Free WiFi",
       "Airport Transfer"
     ],
-    "image1_url": "https://www.thefernhotels.com/fern-kota/fern-kota-exterior.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220123458.jpg",
+    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/736753136.jpg?k=e0dfe5afb07c65791571cbb63a19678a33051d33a2c597d8c9b4b34273756ad1&o=&hp=1",
+    "image2_url": "https://r1imghtlak.mmtcdn.com/4ad53cd4-0397-4739-81eb-df950a154c9d.jpeg",
+    "image3_url": "https://r1imghtlak.mmtcdn.com/dc51c716-4565-48bf-aff2-fe6c333f8a9c.jpeg",
+    "image4_url": "https://r1imghtlak.mmtcdn.com/5b73a70f-347c-4883-947d-7f877e90abb9.jpeg",
     "description": "Eco-friendly upscale hotel on Deoli Arab Road with pool, meeting rooms and sustainable operations."
   },
   {
-    "id": 62,
+    "id": 63,
     "name": "Aurea by The Wallflower Hotels",
     "city": "Kota",
     "star_rating": 3,
@@ -1348,14 +1331,14 @@ export const HotelData=[
       "Parking",
       "24-hour Front Desk"
     ],
-    "image1_url": "https://hotelaureabywallflower.com/wp-content/uploads/2020/01/aurea-exterior.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/230123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/230123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/230123458.jpg",
+    "image1_url": "https://r1imghtlak.mmtcdn.com/e3304859-ea8f-466d-bf46-43bfc484903b.jpg",
+    "image2_url": "https://media.easemytrip.com/media/Hotel/SHL-2501261547059631/Hotel/HotelFnYFEv.png",
+    "image3_url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202501231156254835-c2e79f2b-b094-4943-bb6d-87048df6a68d.jpg",
+    "image4_url": "https://r1imghtlak.mmtcdn.com/8fb0507a-3b33-4434-8916-51111d8e569b.JPG",
     "description": "Stylish mid-range hotel close to City Mall and coaching hubs; comfortable rooms and good dining options."
   },
   {
-    "id": 63,
+    "id": 252,
     "name": "Wallflower Hotel Kota (The Wallflower Hotels)",
     "city": "Kota",
     "star_rating": 3,
@@ -1368,10 +1351,10 @@ export const HotelData=[
       "Restaurant",
       "Parking"
     ],
-    "image1_url": "https://www.thewallflowerhotels.com/images/wallflower-kota-1.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240123458.jpg",
+    "image1_url": "https://pix10.agoda.net/hotelImages/26961153/-1/a62b2ce6e21bcfa3be44c182fc8dfad8.jpg?ca=26&ce=0&s=414x232",
+    "image2_url": "https://media.easemytrip.com/media/Hotel/SHL-22011198324918/Common/Commone4erO4.jpg",
+    "image3_url": "https://media.easemytrip.com/media/Hotel/SHL-22011198324918/Common/CommonIR2K29.jpg",
+    "image4_url": "https://pix10.agoda.net/hotelImages/26961153/-1/3a86c7d7ad26a07c173f17ac39eb0ee3.jpg?ca=26&ce=0&s=414x232",
     "description": "Boutique-style property popular with students visiting coaching institutes; good value-for-money."
   },
   {
@@ -1389,10 +1372,10 @@ export const HotelData=[
       "Riverside Views",
       "Banquet Hall"
     ],
-    "image1_url": "https://www.thehotelguru.com/wp-content/uploads/2019/07/brijraj-bhawan-exterior.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250123458.jpg",
+    "image1_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMNCo7MSD5zOIV5tOS91UJDzdT_26Qm21g5Q&s",
+    "image2_url": "https://r1imghtlak.mmtcdn.com/9de99c21-0d1d-4bd1-855f-0044af7d1e62.jpeg",
+    "image3_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/390596585.jpg?k=38f0ad6d4a2bfc582f8bfb1bb7d4ca1ed194de2ef0f082997568cf9e91360f78&o=",
+    "image4_url": "https://r1imghtlak.mmtcdn.com/11a58b6207c111e68105001ec9b85d13.jpg",
     "description": "Heritage-style riverside hotel offering intimate atmosphere and traditional hospitality."
   },
   {
@@ -1410,10 +1393,10 @@ export const HotelData=[
       "Garden",
       "Room Service"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260123459.jpg",
+    "image1_url": "https://blessingsonthenet.com/img/uploads/hotels/roomgallery/aim_bn_1_1309102567.jpg",
+    "image2_url": "https://welcomheritage-umed-bhawan-palace.hotels-rajasthan.com/data/Pics/OriginalPhoto/10684/1068429/1068429178/welcomheritage-umed-bhawan-palace-kota-rajasthan-pic-1.JPEG",
+    "image3_url": "https://pix10.agoda.net/property/24110607/805899636/67b5ed0d0d79ac002792d29cdc0baaff.jpeg?ce=0&s=414x232",
+    "image4_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0AeWpO-nVTSwO9xBpODGCQiC4Ol_zeXhYPu0e8hQqKNMXLloGRNsi4Yro3HoWl2V_l2Q&usqp=CAU",
     "description": "Palace-turned-hotel offering heritage vibes, proximity to lake and comfortable rooms."
   },
   {
@@ -1430,10 +1413,10 @@ export const HotelData=[
       "Restaurant",
       "Parking"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270123459.jpg",
+    "image1_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybLUKSHausuxtCqM6vEWE3d_5RWdH6ARc0Q&s",
+    "image2_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmkJamlEEaKbwXHRF9tC-foh5UkbcrQqwrKN11C2H8v4iiO7YVhB-KCvpTXQWq4bZG6c&usqp=CAU",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXPvQB6mKDVEHIxmxyxA0e3UCGZR9XpoK1VkV960r8sIn_J9EWZowKLmURoAthF1P1a0&usqp=CAU",
+    "image4_url": "https://s3-cdn.hotellinksolutions.com/hls/data/4704/website/general/bn/mobile_banner1.jpg",
     "description": "Comfortable mid-range hotel convenient for city sightseeing and coaching centres."
   },
   {
@@ -1450,10 +1433,10 @@ export const HotelData=[
       "Restaurant",
       "24-hour Front Desk"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280123459.jpg",
+    "image1_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9h3qBi0FH8_yEXOg7aRfpyFyR8EZ3n7sgw&s",
+    "image2_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/86/50/18/hotel-midtown-grand.jpg?w=900&h=500&s=1",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVoN7kzO9Fr2Ze-0y67vGiD0Xy_8hz6BUOBSd7bkiS2UWBUAN0nAqtnS5dvqySGcVhwQ&usqp=CAU",
+    "image4_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWLbLwlBR-KXrro9WbZaGS5OuhVWTJBYqrXqLZVMAkrxGhdHFStBE_40U_Ehpj93Cs74&usqp=CAU",
     "description": "Budget-friendly hotel close to railway station and local markets; good for short stays."
   },
   {
@@ -1470,10 +1453,10 @@ export const HotelData=[
       "Restaurant",
       "Parking"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290123459.jpg",
+    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82298110.jpg?k=76e32ca16a3d2edb10e940c2383b483e1b4d4af902af2e702f6892da379ade52&o=&hp=1",
+    "image2_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/82298279.jpg?k=f696471f1b25b890981f6f989ec518a742dcee25d985a540ec043513cb766c3d&o=",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5HNPWht3MFC3e2PyByP5zcMoOH2JoEZL0mr5MowRKhQZAIkJQ8Fu2HWkhUzXtzgFIXI&usqp=CAU",
+    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82298209.jpg?k=f7434b55985a7d25fbf619b2e59829055cabd770b1bd09eb24ecee05bbaa10fa&o=&hp=1",
     "description": "Simple comfortable hotel popular with students' families and business visitors."
   },
   {
@@ -1489,10 +1472,10 @@ export const HotelData=[
       "Free WiFi",
       "Restaurant"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300123459.jpg",
+    "image1_url": "https://gos3.ibcdn.com/bfa2182e928411e990670242ac110002.jpeg",
+    "image2_url": "https://content3.jdmagicbox.com/comp/surat/k9/0261px261.x261.180828170600.q2k9/catalogue/hotel-blue-diamond-bardoli-surat-hotels-145q92zyux.jpg",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYfg7SGLZq3cpkysxVGG4Mh_PYn7pFKKcDGZxev-UyJjiJzohF7Je8rZnCALJ7NcLBzQ&usqp=CAU",
+    "image4_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/697229515.jpg?k=6d718f146c7fcb57875c610e1c79ac59822b92370391615a35a1a4f9d222ddd2&o=",
     "description": "Budget property offering basic amenities and convenient city access."
   },
   {
@@ -1509,10 +1492,10 @@ export const HotelData=[
       "Restaurant",
       "Parking"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310123459.jpg",
+    "image1_url": "https://images.trvl-media.com/lodging/2000000/1070000/1066600/1066597/744e6985.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+    "image2_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5UdsXHe5ijFXZvHPDGNvMgWlTYfKst2W5sm2qbodXug4Kz-nBUlmNeyU2qEqZbDexVc&usqp=CAU",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxAQ7Eof51wZpPHEBqvzCoo21O6QQnpcD6K7anlWwavclH7gKZV_6TH0ZxZd4maUhHhMI&usqp=CAU",
+    "image4_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/22/9d/94/img-20191126-wa0020-largejpg.jpg?w=1200&h=1200&s=1",
     "description": "Neighbourhood hotel with comfortable rooms and easy access to local attractions."
   },
 
@@ -1533,10 +1516,10 @@ export const HotelData=[
       "Fitness Centre",
       "Parking"
     ],
-    "image1_url": "https://www.marriott.com/content/dam/marriott-hotels/hotels/ajmer-fairfield-exterior.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400123458.jpg",
+    "image1_url": "https://www.kayak.com/rimg/himg/e9/09/45/leonardo-894010-694397-595660.jpg?width=836&height=607&crop=true",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/734657176.jpg?k=de34b72922d03cbe583426a19046a5a974831e8f1c55ff76fcd7ee5a6c0344cc&o=&hp=1",
+    "image3_url": "https://content.skyscnr.com/available/1546428640/1546428640_WxH.jpg",
+    "image4_url": "https://images.trvl-media.com/lodging/25000000/24210000/24207800/24207786/180c111e.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
     "description": "Modern business hotel close to Ajmer Junction with pool, restaurant, and fitness facilities."
   },
   {
@@ -1554,10 +1537,10 @@ export const HotelData=[
       "Free WiFi",
       "Spa"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401123459.jpg",
+    "image1_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/04/7b/1e/four-bed-deluxe.jpg?w=900&h=500&s=1",
+    "image2_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/04/7b/30/deluxe-double.jpg?w=900&h=500&s=1",
+    "image3_url": "https://pix10.agoda.net/hotelImages/547916/3533193/4801241147f8cfc58cd08097eb5d5a91.jpeg?ce=0&s=414x232",
+    "image4_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFj_ufc0HEYIKAOIU37OU6lKbdIt9u9JgSZQ&s",
     "description": "Heritage-style property with luxury rooms, spa, pool, and proximity to Ajmer Dargah."
   },
   {
@@ -1575,10 +1558,10 @@ export const HotelData=[
       "Free WiFi",
       "Fitness Centre"
     ],
-    "image1_url": "https://www.lemontreehotels.com/lemon-tree-premier-ajmer/exterior.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402123456.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402123457.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402123458.jpg",
+    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/532746651.jpg?k=f7f08424b4e470aeb5719d9517cfbf3d51b2bb94255e62b8e802e1052a56db0a&o=&hp=1",
+    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/532746605.jpg?k=0d103eff811f8c7bbb266745aa715ad682090420f4180ae85cdffc0f38f1888f&o=&hp=1",
+    "image3_url": "https://images.trvl-media.com/lodging/103000000/102800000/102791900/102791845/9c22cfa5.jpg?impolicy=fcrop&w=1200&h=800&quality=medium",
+    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/532739644.jpg?k=7f33fad80a5dff26dad392dc293c2fd73cad62a2199cadf2e36adefb4540b093&o=&hp=1",
     "description": "Modern hotel ideal for both business and leisure travelers, close to the station."
   },
   {
@@ -1595,10 +1578,10 @@ export const HotelData=[
       "Restaurant",
       "Parking"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403123459.jpg",
+    "image1_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_BTF7kzR04Hx9X1ogmCVveXsTN8rWqorJQ&s",
+    "image2_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/82298279.jpg?k=f696471f1b25b890981f6f989ec518a742dcee25d985a540ec043513cb766c3d&o=",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5HNPWht3MFC3e2PyByP5zcMoOH2JoEZL0mr5MowRKhQZAIkJQ8Fu2HWkhUzXtzgFIXI&usqp=CAU",
+    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82298209.jpg?k=f7434b55985a7d25fbf619b2e59829055cabd770b1bd09eb24ecee05bbaa10fa&o=&hp=1",
     "description": "Budget-friendly hotel near Ajmer Dargah offering comfortable rooms and basic amenities."
   },
   {
@@ -1809,10 +1792,10 @@ export const HotelData=[
       "Free WiFi",
       "Restaurant"
     ],
-    "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414123456.jpg",
-    "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414123457.jpg",
-    "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414123458.jpg",
-    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414123459.jpg",
+    "image1_url": "https://images.oyoroomscdn.com/uploads/hotel_image/4964/medium/4edcd1b38a78ca2d.jpg",
+    "image2_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/82298279.jpg?k=f696471f1b25b890981f6f989ec518a742dcee25d985a540ec043513cb766c3d&o=",
+    "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5HNPWht3MFC3e2PyByP5zcMoOH2JoEZL0mr5MowRKhQZAIkJQ8Fu2HWkhUzXtzgFIXI&usqp=CAU",
+    "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82298209.jpg?k=f7434b55985a7d25fbf619b2e59829055cabd770b1bd09eb24ecee05bbaa10fa&o=&hp=1",
     "description": "Mid-range property with AC rooms and easy access to Ajmer Dargah and local markets."
   },
 
@@ -4078,10 +4061,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.thegrandradiant.com/",
-      "image2_url": "https://www.thegrandradiant.com/gallery",
-      "image3_url": "https://www.tripadvisor.in/Hotel_Review-g297684-d345678-Lucknow_Hotels.html",
-      "image4_url": "https://www.booking.com/hotel/in/grand-radiant.html",
+      "image1_url": "https://www.thegrandradiant.com/components/slider/slider15.jpg",
+      "image2_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/82298279.jpg?k=f696471f1b25b890981f6f989ec518a742dcee25d985a540ec043513cb766c3d&o=",
+      "image3_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5HNPWht3MFC3e2PyByP5zcMoOH2JoEZL0mr5MowRKhQZAIkJQ8Fu2HWkhUzXtzgFIXI&usqp=CAU",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82298209.jpg?k=f7434b55985a7d25fbf619b2e59829055cabd770b1bd09eb24ecee05bbaa10fa&o=&hp=1",
       "description": "Eco-friendly 3-star hotel, modern rooms, good interiors, breakfast and WiFi included."
     },
     {
@@ -4153,10 +4136,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.hotels.com/ho78901/hotel-omaxe-hazratganj-lucknow/photos/",
-      "image2_url": "https://www.booking.com/hotel/in/onlystay-omaxe-hazratganj.html",
-      "image3_url": "https://www.tripadvisor.in/Hotel_Review-g297684-d1239876-Reviews-OnlyStay_Hotel_Omaxe_Hazratganj-Lucknow.html",
-      "image4_url": "https://www.expedia.co.in/Lucknow-Hotels-Omaxe-Hazratganj.h34512.Hotel-Information",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/66502995.jpg?k=b2567b34a2e134a75551301424eddf8973e9e5e702b2672f058fb26e8350c3b2&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694160.jpg?k=dc02b4f5bc7f2cebcf12b74755319419084f9454e3ecd0b542a654fff4a74296&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694126.jpg?k=8bc14c56faf5c999bce803a901060dbc817b4105434c9fbdb0565dd69974059f&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694127.jpg?k=3b3a420266b3d8fb98cca61e31d1d7d3d55f243b57f0d714d8c42b1035ee5302&o=",
       "description": "Stylish hotel in Hazratganj area, comfortable stay with AC, restaurant, WiFi and breakfast."
     },
     {
@@ -4498,10 +4481,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.houseofmg.com/gallery",
-      "image2_url": "https://www.houseofmg.com/",
-      "image3_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d1230987-Reviews-The_House_of_MG-Ahmedabad.html",
-      "image4_url": "https://www.booking.com/hotel/in/the-house-of-mg.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/668699732.jpg?k=5b5f28841268db7c1c4513dc6c560e040474ec8e159b19bb562fef5b552a00c1&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/668699734.jpg?k=2c88b3710f628c9b60a308f295ba10954c9953db764eb27e06ce295b8b796ebb&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/668699736.jpg?k=12069dd01602c7a4b3d27def627f086c5a21ba76d09e0f3a87d864a42ab6be31&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/668699738.jpg?k=4286c4ec69d89dc95a4f3de899b3f5039caa7feda4e49e9ed4f61c616d82f25b&o=",
       "description": "Heritage boutique hotel with restored period rooms, elegant dining and charm — higher end but within ₹8k budget on many dates."
     },
     {
@@ -4518,10 +4501,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/olive-downtown.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d2340987-Reviews-Olive_Downtown-Ahmedabad.html",
-      "image3_url": "https://www.expedia.co.in/Ahmedabad-Hotels-Olive-Downtown.h23456.Hotel-Information",
-      "image4_url": "https://www.hotels.com/ho456789/olive-downtown-ahmedabad/photos/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090807.jpg?k=c2d3c9a2bec254dea0d3959c59c823ecd48a623b9799ee0e2088562fdddc61e3&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090765.jpg?k=13db65eecc37dac23dac61f148a1a39182a9d85a36d9dda387e20fa8d463178a&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090879.jpg?k=a0f558e69506473c2f24bf7a3d2fc2cce24efbcb39954578eba6a5aec075470f&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090827.jpg?k=0beb8f8bf9dd3d4f4a48fcac467340d9f82ea4cca09363e4465b7502674e56b2&o=",
       "description": "Premium boutique property with modern amenities, pool and upscale dining — often available within upper budget cap."
     },
     {
@@ -4537,10 +4520,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/ambassador-ahmedabad.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d345987-Reviews-Hotel_Ambassador-Ahmedabad.html",
-      "image3_url": "https://www.makemytrip.com/hotels/hotel-ambassador-ahmedabad.html",
-      "image4_url": "https://www.hotels.com/ho567890/hotel-ambassador-ahmedabad/photos/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090801.jpg?k=fb361fd4ba8d4fc49a436eeeab1df511d0d55d05681e9c46802fe6d9a60f0d7a&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090797.jpg?k=61fe57059be79dbe74a5eaca63aa20225c54392c85d058aa7052d49b6f8d03f5&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090763.jpg?k=72b8e5973444c7d0675cf74f9147be8d08bd96064bedeb83dcb147d08034e388&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090762.jpg?k=2b3df28f9037e4d8b27b03eae5bf6646b085080b70bf36ec7338a66f4be817c4&o=",
       "description": "Reliable mid-range hotel with comfortable rooms, on-site dining and business services."
     },
     {
@@ -4556,10 +4539,10 @@ export const HotelData=[
         "Free WiFi",
         "Restaurant"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/satyam-palace.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d456012-Reviews-Satyam_Palace-Ahmedabad.html",
-      "image3_url": "https://www.makemytrip.com/hotels/satyam-palace-ahmedabad.html",
-      "image4_url": "https://www.hotels.com/ho678901/satyam-palace-photos/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/687875194.jpg?k=59771b40d01def6d498bcf47aa2892df53917abfd172d957aab8f7ba2f730d36&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/609809851.jpg?k=6d12a766b4cb246d9aaf2f04103d299b1f8a041e152c8b1cba859ac37b27a2b8&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510656383.jpg?k=b7204db5e9d3ddd8c097516aa753ddfb9714e7dad33c2ba98c3a1394b80d81da&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510907898.jpg?k=c2efe826104e454b04e004e1be8d5a2719253688bb797019864877d6cbafe967&o=",
       "description": "Budget-friendly property with clean rooms and basic amenities — good for short stays and transit."
     },
     {
@@ -4574,10 +4557,10 @@ export const HotelData=[
         "Breakfast",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/krishna-palace.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d567890-Reviews-Krishna_Palace-Ahmedabad.html",
-      "image3_url": "https://www.makemytrip.com/hotels/krishna-palace-ahmedabad.html",
-      "image4_url": "https://www.hotels.com/ho789012/krishna-palace-photos/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/609810972.jpg?k=04e9b63e1ce2dd9b4b192be81e0b637f124f38104c7eb373cbbb95fb215f67c2&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522594821.jpg?k=d6a822f77e410a78b78f8c1e1d0fa46d557657e099216c3d7682eaca8c332a74&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522897909.jpg?k=d199f833f6a10ce8dd20cee966bae440c63d69fbc6a56d8c8b0292fcc36a4db3&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522898021.jpg?k=5bfd23daf606001517732c0687e24165efc00be5b1b30be0717266664ba6e9af&o=",
       "description": "Simple budget hotel for travellers seeking low-cost stay with AC and breakfast included."
     },
     {
@@ -4593,10 +4576,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/natraj-plaza.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297608-d678901-Reviews-Natraj_Plaza-Ahmedabad.html",
-      "image3_url": "https://www.makemytrip.com/hotels/natraj-plaza-ahmedabad.html",
-      "image4_url": "https://www.hotels.com/ho890123/natraj-plaza-photos/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618303146.jpg?k=5f211aab23a182db19416edab897305e7f84c96561b1dfb486f7d40eefd3890a&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618303148.jpg?k=0f4bca9f023a6592f35285e2df98d40447f4265a370ea92afa5908c4dfdb05b9&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305301647.jpg?k=32b79be9f708a4c16bd72c71b72eaa818d212e7134404a3a2f7b60e7e14d2bba&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/246935128.jpg?k=a4320cd1a64b1b304c64b3265c7cb7419a88f65e21651a9d10334cad9be5c89a&o=",
       "description": "Comfortable 3-star hotel, convenient for business & leisure travellers with on-site dining and breakfast."
     },
 
@@ -4614,10 +4597,10 @@ export const HotelData=[
         "Free WiFi",
         "Restaurant"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/royal-aqua-mumbai.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d123456-Reviews-Hotel_Royal_Aqua-Mumbai.html",
-      "image3_url": "https://www.makemytrip.com/hotels/photos-of-hotel_royal_aqua-details.html",
-      "image4_url": "https://www.hotels.com/ho123456/hotel-royal-aqua-mumbai/photos/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289754850.jpg?k=5393ca24ef6d8b918ad5b29fc47c34d92d8e7c96ba4774e012732de61cc72f01&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291518425.jpg?k=9b261512287b3964b767e157bb1e3deea1dc589dbf953e7db18a194fafa384ec&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291526523.jpg?k=b68c3d399230a68be54c3d483a13747ffa01f1fdfc8a70b35d40c228dae437fb&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506958567.jpg?k=1cfeb1f5aa644f83137152642517539110f914e904857828580bd4171dba72a1&o=",
       "description": "Budget hotel in Andheri East with AC rooms, breakfast and basic amenities."
     },
     {
@@ -4633,10 +4616,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/cliff-garden.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d234567-Reviews-Hotel_Cliff_Garden-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho234567/hotel-cliff-garden-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-hotel_cliff_garden-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/618303075.jpg?k=4bbf22f6fe676a5f4a1883ce9a4d17cee547372d77a5392ea8151eb97073cb24&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/66503044.jpg?k=ad1d8f1469d548e82565a57693a4c02e196ccd25c8e23f41c66f6a3320368062&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398777796.jpg?k=99b76ecdfc01c20e389941491d5adb46bcfd1e787aff7dc7807a3aaaf197f4c8&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694134.jpg?k=445da49640245edc4dce770f9b200cf5f03823b9e291009841bb2443d22c3c9e&o=",
       "description": "Simple hotel near Colaba, good for tourists exploring South Mumbai."
     },
     {
@@ -4650,10 +4633,10 @@ export const HotelData=[
         "AC",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/everest-stays.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d345678-Reviews-Everest_Stays-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho345678/everest-stays-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-everest-stays-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513121120.jpg?k=2d722bb9e60a1dabbd7fa2c79a29ea7b42587a479a090164ac34b017356eff25&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508028606.jpg?k=348266fbf46e3985a61fda9e8110c69c7019ff4758b2f0e2ba2b61b19a99f418&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/581537275.jpg?k=93c06bd19a4a18bbf9032d3cc223e696ab4deefb9f59e188f1b07f1708b6f3e7&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/581547964.jpg?k=8c47492e36c0c1ff26bd80a7b9dce039e4385ae63fbb2537a47bb6f3739ed388&o=",
       "description": "Dormitory style / budget rooms, minimal amenities, popular with backpackers."
     },
     {
@@ -4668,10 +4651,10 @@ export const HotelData=[
         "Breakfast",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/peace-international.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d456789-Reviews-Peace_International_Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho456789/peace-international-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-peace-international-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/677348777.jpg?k=ffa3204db96330dcdcdba25857c372750e4c04ad396efb8507f78590a53a6a1d&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/692740664.jpg?k=7edd6585f7cf93f1b496afb4fcb45b6d8027ea4da711fe32f51ade119b5e2c44&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/677349266.jpg?k=db8274a3c2da8759fd7d2a8d7bda758452c9b848fdcabe00d25c22168d8e2caf&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/688544881.jpg?k=215078c90da275be1e956e5f1690a67fc40fe0c70c496d2adb7685985d3af668&o=",
       "description": "Affordable hotel in South Mumbai, close to major tourist spots."
     },
     {
@@ -4687,10 +4670,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/kiwi-international.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d567890-Reviews-Kiwi_International_Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho567890/kiwi-international-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-kiwi-international-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289754850.jpg?k=5393ca24ef6d8b918ad5b29fc47c34d92d8e7c96ba4774e012732de61cc72f01&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291518425.jpg?k=9b261512287b3964b767e157bb1e3deea1dc589dbf953e7db18a194fafa384ec&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291526523.jpg?k=b68c3d399230a68be54c3d483a13747ffa01f1fdfc8a70b35d40c228dae437fb&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506958567.jpg?k=1cfeb1f5aa644f83137152642517539110f914e904857828580bd4171dba72a1&o=",
       "description": "Good option near airport & eastern suburbs, with AC rooms & restaurant."
     },
     {
@@ -4706,10 +4689,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/parle-international.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d678901-Reviews-Parle_International_Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho678901/parle-international-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-parle-international-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513121120.jpg?k=2d722bb9e60a1dabbd7fa2c79a29ea7b42587a479a090164ac34b017356eff25&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508028606.jpg?k=348266fbf46e3985a61fda9e8110c69c7019ff4758b2f0e2ba2b61b19a99f418&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/581537275.jpg?k=93c06bd19a4a18bbf9032d3cc223e696ab4deefb9f59e188f1b07f1708b6f3e7&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/581547964.jpg?k=8c47492e36c0c1ff26bd80a7b9dce039e4385ae63fbb2537a47bb6f3739ed388&o=",
       "description": "Mid-range hotel in Vile Parle near the airport and local amenities."
     },
     {
@@ -4725,10 +4708,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/residency-fort.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d789012-Reviews-Hotel_Residency_Fort-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho789012/residency-fort-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-residency-fort-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/658196410.jpg?k=ddfccf2112af162a665124a6eb55d7ddc87553ba24e7b13cbab7eb34fccd86d6&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/658196503.jpg?k=eee37aa7bcacc581e06bfbf058c096cb7afecd5e3aa51d385c9e223d0f8fcf70&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/658196359.jpg?k=8818d33690b7293517572d291c5cc26b4aaba8b61166a41ebd2bd308da31a3d5&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/658196439.jpg?k=3c3e91a761bb541ded4fb52ae9da41f214a26c465b4ed266c272d1c71ddbdc01&o=",
       "description": "Elegant mid-range hotel in Fort area, close to heritage & business districts."
     },
     {
@@ -4744,10 +4727,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/bawa-continental.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d890123-Reviews-Hotel_Bawa_Continental-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho890123/bawa-continental-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-bawa-continental-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497152824.jpg?k=6a0c3e5f027cd2059937901dc6e0e2e99cd578d6aa7ea4be8ea87dff281887ab&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497384797.jpg?k=42ba85e14f6a67ff06a42af43211d21b12a05f09cb2f3aa0abcc26b0b8dd5258&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497385459.jpg?k=af7e6dfba91429e54e90e30e30f177e30ab9a2a074a48e0b9b4e43107b25e454&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/705648791.jpg?k=4a40bedbd7a1a57aa29ffbb0649e99b119dd41c9174a0fafdbeb3bdcfd05af07&o=",
       "description": "Good hotel in Andheri, easy access to airport, metro & local transport."
     },
     {
@@ -4763,10 +4746,10 @@ export const HotelData=[
         "Free WiFi",
         "Restaurant"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/star-palace.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d901234-Reviews-Hotel_Star_Palace-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho901234/star-palace-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-star-palace-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/639557121.jpg?k=caed499385f0a1d83a2488cffcb16701bbf17e4bb390f9e680881a6cd4130783&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/639557162.jpg?k=f776d1dc426c32e5e65e55d15e016a8371968cedbc32ad71ae8e0010b279ea80&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/639557157.jpg?k=d38fba8558f987d5c80bae1dae48dc13dd09cab5b0268bcdf6948f0ccf3252b3&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/639557178.jpg?k=12f914e8f48aedb53a36a7e440f8cd788c7ff9c27c02b509598e659200de3e8d&o=",
       "description": "Affordable stay in Andheri East region with basic amenities."
     },
     {
@@ -4781,10 +4764,10 @@ export const HotelData=[
         "Breakfast",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/planet-plaza.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d012345-Reviews-Hotel_Planet_Plaza-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho012345/planet-plaza-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-planet-plaza-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526862966.jpg?k=432b86517fd924059172c8208d7de7fd33abb31ea5294edec7e1c274e78e0422&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485506890.jpg?k=9c7a9425f228964b821e86849e0f991a919752bf2ea8831f7aa62d43a79b48ae&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485506416.jpg?k=0d5061c6de5fe752b0139674ba31150ba4322939547d08f0ba525d8e980332a0&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485507979.jpg?k=6899e0ac2485df20e642d18ee52867b8dba0e2a1e5c49b77e79d5a7f96cde064&o=",
       "description": "Good option for business travellers in East / MIDC region, with AC and WiFi."
     },
     {
@@ -4800,10 +4783,10 @@ export const HotelData=[
         "Free WiFi",
         "Restaurant"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/ocean-suites.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d123567-Reviews-Hotel_Ocean_Suites-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho123567/ocean-suites-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-ocean-suites-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/708442365.jpg?k=90bb4e70f3daa7b6348a691ef0de7b4da38ab33de4ad2279b02f6514340f21ae&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/708442565.jpg?k=7c13514f26d30a3d6e80a60566b1b7156c161ba69ecb02c0e072e9ec95d512f2&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675917491.jpg?k=2904e25df0eb53d10943d18e21bf6a9f8d10dc4beb591bbe21b0ae273a9e4791&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/708519805.jpg?k=db12a5d4f2615d0773cf6897b7c496d25f8bf7e9b43fa8720118c1d3c7550db9&o=",
       "description": "Decent stay near the western suburbs and beach zones."
     },
     {
@@ -4819,10 +4802,10 @@ export const HotelData=[
         "Free WiFi",
         "Restaurant"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/qubestay.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d234578-Reviews-Hotel_Qubestay_Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho234578/qubestay-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-qubestay-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090863.jpg?k=e4cb6a665adbd698ccd9ba4e591f2a8516e951a007d7a625e8d0991fdacfaadc&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090769.jpg?k=0c3007bb22bde568c3bf09c79f9e3e082201e66dc190bb0b2e224d3723e900d8&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090885.jpg?k=9ef1c0f5d72e74e90a30e1b83cb010f156e00d0e86d32c944d2502534dff4be7&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/635090848.jpg?k=e5c26ec46c6f5412b08826682da412c4c0c76c5b910c0264014082457c715138&o=",
       "description": "Budget hotel close to the airport terminals, convenient for transit stays."
     },
     {
@@ -4837,10 +4820,10 @@ export const HotelData=[
         "Breakfast",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/bliss-executive.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d345679-Reviews-Hotel_Bliss_Executive-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho345679/bliss-executive-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-bliss-executive-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/677348777.jpg?k=ffa3204db96330dcdcdba25857c372750e4c04ad396efb8507f78590a53a6a1d&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/692740664.jpg?k=7edd6585f7cf93f1b496afb4fcb45b6d8027ea4da711fe32f51ade119b5e2c44&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/677349266.jpg?k=db8274a3c2da8759fd7d2a8d7bda758452c9b848fdcabe00d25c22168d8e2caf&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/688544881.jpg?k=215078c90da275be1e956e5f1690a67fc40fe0c70c496d2adb7685985d3af668&o=",
       "description": "Good value hotel in western suburbs, suitable for business or short stay."
     },
     {
@@ -4855,10 +4838,10 @@ export const HotelData=[
         "Breakfast",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/spring-hill.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d456780-Reviews-Hotel_Spring_Hill-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho456780/spring-hill-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-spring-hill-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/66502995.jpg?k=b2567b34a2e134a75551301424eddf8973e9e5e702b2672f058fb26e8350c3b2&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694160.jpg?k=dc02b4f5bc7f2cebcf12b74755319419084f9454e3ecd0b542a654fff4a74296&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694126.jpg?k=8bc14c56faf5c999bce803a901060dbc817b4105434c9fbdb0565dd69974059f&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437694127.jpg?k=3b3a420266b3d8fb98cca61e31d1d7d3d55f243b57f0d714d8c42b1035ee5302&o=",
       "description": "Budget stay in the outskirts, peaceful location and basic amenities."
     },
     {
@@ -4874,55 +4857,15 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/q-nexus-residency.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g304554-d567891-Reviews-Q_Nexus_Residency-Mumbai.html",
-      "image3_url": "https://www.hotels.com/ho567891/q-nexus-residency-mumbai/photos/",
-      "image4_url": "https://www.makemytrip.com/hotels/photos-of-q-nexus-residency-details.html",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/735058810.jpg?k=da19797d956ee9b59beb676f9723525ace43e41aade366d99e5bb1a1766655bb&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484544433.jpg?k=974af48e42b0bf00ca642a679c18482736e5b3dfc6f6baceaaf5fbadc7a07492&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/729479294.jpg?k=cbe9a8bf2226227f77aa1d4691eb3c83fc7153467af1ac0ec6c3c4b9e6f24b7d&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/735062759.jpg?k=ca0ebd7829012910d66d7b6dbf34d380b8b641ea0f83305a1fb62d1f1b639ee1&o=", 
       "description": "Comfortable hotel near Andheri East, good for airport access and business travellers."
     },
     // Himachal Pradesh
-    {
-      "id": 245,
-      "name": "Hotel Mountain Top",
-      "city": "Manali, Himachal Pradesh",
-      "star_rating": 2,
-      "area": "Old Manali",
-      "price_per_night_inr": 1800,
-      "amenities": [
-        "AC",
-        "Breakfast",
-        "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Free WiFi"
-      ],
-      "image1_url": "https://www.mountain-top-manali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Mountain_Top-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/mountain-top-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Mountain-Top.h32852110.Hotel-Information",
-      "description": "Located in Old Manali, offering scenic views, comfortable rooms, and essential amenities for a pleasant stay."
-    },
-    {
-      "id": 246,
-      "name": "Hotel Himalayan Heights",
-      "city": "Manali, Himachal Pradesh",
-      "star_rating": 3,
-      "area": "Naggar Road",
-      "price_per_night_inr": 2200,
-      "amenities": [
-        "AC",
-        "Breakfast",
-        "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Free WiFi"
-      ],
-      "image1_url": "https://www.himalayanheightsmanali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Himalayan_Heights-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/himalayan-heights-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Himalayan-Heights.h32852110.Hotel-Information",
-      "description": "Luxury hotel offering well-furnished rooms, multi-cuisine restaurant, spa, and outdoor pool with panoramic views."
-    },
+  
+  
     {
       "id": 247,
       "name": "Hotel River View",
@@ -4936,10 +4879,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.riverviewmanali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_River_View-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/river-view-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-River-View.h32852110.Hotel-Information",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160050285.jpg?k=d097d9b7d6cb8018dbf345346d44884ecf83b6efe9b2563699df45fcdc2fb124&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160050132.jpg?k=06bff38f48f9dfe653d295a984c6f8ccdd3862e8645c4022344466446a950117&o= ",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160050133.jpg?k=e4c699c499aa32127f6602a244b5b5ee588143878fbf7180a4858f16a6d822cc&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90280316.jpg?k=863e555cb804778a0b36be509b9e72970c2d491fcf16ed26e418c14064a9b8f8&o=",
       "description": "Budget hotel located near the river, offering basic amenities and comfortable stay."
     },
     {
@@ -4957,10 +4900,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.snowvalleyresort.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Snow_Valley_Resort-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/snow-valley-resort-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Snow-Valley-Resort.h32852110.Hotel-Information",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/602221040.jpg?k=53b0739ddcd7ac72604bafe96ab3d213aeaf7995d0d636e5aa48651a5abb0055&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/602223896.jpg?k=fe034234013ee026bc1662b111bdd570cdf71f4482b6a15645e59fe7f9ac764a&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/602220109.jpg?k=3457dd681e25cf20de914cbb73610517633b97b4d0abf758626b3a850a92991d&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/602220476.jpg?k=afa5591aaba4e7cc40a1f4a9ec882f00fccdc367cfb8610c6d133e50479b0a1e&o=",
       "description": "Resort offering comfortable rooms, multi-cuisine restaurant, spa, and outdoor pool with scenic views."
     },
     {
@@ -4978,77 +4921,37 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.royalparkmanali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Asia_Sulphur_Spring-Manali_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/the-royal-park-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-The-Royal-Park.h32852110.Hotel-Information",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/685085550.jpg?k=ad0fe1b02cb64624ccf160aee4d8c52caf861077854040d4e5b84df1994ed312&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/684791575.jpg?k=27d5af0f3ca1b2910520accc72fdf79c8aa38da787ec735318cb33665f83fbba&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/537748568.jpg?k=c1ef13e859f0618ba47369fbeb2438c5262911d97403e505216c144d6ee95033&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/663608816.jpg?k=2bac1d854849c78133a816caf3d7a5f89c192791c4cf13ce02fc17042758f025&o=&hp=1",
       "description": "Luxury hotel offering well-furnished rooms, multi-cuisine restaurant, spa, and outdoor pool."
     },
-    {
-      "id": 250,
-      "name": "Hotel Himalayan Heights",
-      "city": "Manali, Himachal Pradesh",
-      "star_rating": 3,
-      "area": "Naggar Road",
-      "price_per_night_inr": 2200,
-      "amenities": [
-        "AC",
-        "Breakfast",
-        "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Free WiFi"
-      ],
-      "image1_url": "https://www.himalayanheightsmanali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Himalayan_Heights-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/himalayan-heights-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Himalayan-Heights.h32852110.Hotel-Information",
-      "description": "Hotel offering luxurious rooms, multi-cuisine restaurant, spa, and outdoor pool with panoramic views."
-    },
-    {
-      "id": 251,
-      "name": "Hotel Mountain Top",
-      "city": "Manali, Himachal Pradesh",
-      "star_rating": 2,
-      "area": "Old Manali",
-      "price_per_night_inr": 1800,
-      "amenities": [
-        "AC",
-        "Breakfast",
-        "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Free WiFi"
-      ],
-      "image1_url": "https://www.mountain-top-manali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Mountain_Top-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/mountain-top-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Mountain-Top.h32852110.Hotel-Information",
-      "description": "Located in Old Manali, offering scenic views, comfortable rooms, and essential amenities for a pleasant stay."
-    },
-    {
-      "id": 252,
-      "name": "Hotel Himalayan Heights",
-      "city": "Manali, Himachal Pradesh",
-      "star_rating": 3,
-      "area": "Naggar Road",
-      "price_per_night_inr": 2200,
-      "amenities": [
-        "AC",
-        "Breakfast",
-        "Swimming Pool",
-        "Spa",
-        "Restaurant",
-        "Free WiFi"
-      ],
-      "image1_url": "https://www.himalayanheightsmanali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Himalayan_Heights-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/himalayan-heights-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Himalayan-Heights.h32852110.Hotel-Information",
-      "description": "Hotel offering luxurious rooms, multi-cuisine restaurant, spa, and outdoor pool with panoramic views."
-    },
+
+
     {
       "id": 253,
+      "name": "Hotel Himalayan Heights",
+      "city": "Manali, Himachal Pradesh",
+      "star_rating": 3,
+      "area": "Naggar Road",
+      "price_per_night_inr": 2200,
+      "amenities": [
+        "AC",
+        "Breakfast",
+        "Swimming Pool",
+        "Spa",
+        "Restaurant",
+        "Free WiFi"
+      ],
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/577792903.jpg?k=37e1c9db38af8cc538987133300c1ffb48d5a58a18d87cd470806341148be192&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/584016311.jpg?k=fd9f9219420b47b8c4a064a340a82eab94872abc7c2f182356f05240914cda13&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/584016657.jpg?k=773959ba522732472066b64165895e90c0e09606c0ad28cd7e4c38666f7ddc27&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/577789977.jpg?k=a27cb8f0f6d749814fa8a09055352b0cccb78bffd4b79f79f71a3d8ff2c9d6a1&o=",
+      "description": "Hotel offering luxurious rooms, multi-cuisine restaurant, spa, and outdoor pool with panoramic views."
+    },
+    {
+      "id": 254,
       "name": "Hotel Mountain Top",
       "city": "Manali, Himachal Pradesh",
       "star_rating": 2,
@@ -5062,16 +4965,16 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.mountain-top-manali.com/",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d477554-Reviews-Hotel_Mountain_Top-Manali_Kullu_District_Himachal_Pradesh.html",
-      "image3_url": "https://www.booking.com/hotel/in/mountain-top-manali.html",
-      "image4_url": "https://www.expedia.com/Manali-Hotels-Hotel-Mountain-Top.h32852110.Hotel-Information",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398012269.jpg?k=2f45456bdb98e943f8262eb6478241480ae6e8839b29641aec5390d559319fe4&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/227368434.jpg?k=729c81d3911f4fd3a424bf3744cd82209b0349605cef26b5ae74c94eae32dd33&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398384340.jpg?k=31e7205a53c8a2b25ea2c80d3be06fb81fbb618a81c8e793d6989213803f7830&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/227367275.jpg?k=b0a05fb45924e74e79c0a1eb342d2e3cb6aa3030f456c403435995f9761efddb&o=",
       "description": "Located in Old Manali, offering scenic views, comfortable rooms, and essential amenities for a pleasant stay."
     },
 
     // Bikaner
     {
-      "id": 254,
+      "id": 255,
       "name": "Hotel Jaswant Bhawan",
       "city": "Bikaner",
       "star_rating": 3,
@@ -5083,14 +4986,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/jaswant-bhawan-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_Jaswant_Bhawan-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-Jaswant-Bhawan.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-jaswant-bhawan-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/600061476.jpg?k=a0ef8f1b683890c1be8cbd96ee912d67315f5e62fd30d93e072ef615e62eb138&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/600061504.jpg?k=616397d1a874b200156634a75f40e0e64c099fc85c9b1aa76c173cc5d4849b25&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/600061492.jpg?k=d932e63d98901b6b8a5e472f612df73ca4d89cef9138f435e0ff8ebd520ce887&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/600061878.jpg?k=63ddc0b8384d5b487d43187c71c2467761436722875b2443f34ac561b58d6bb7&o=",
       "description": "Located near Bikaner Railway Station, Hotel Jaswant Bhawan offers comfortable rooms with modern amenities, making it a convenient choice for travelers."
     },
     {
-      "id": 255,
+      "id": 256,
       "name": "Hotel Sagar Haveli",
       "city": "Bikaner",
       "star_rating": 3,
@@ -5104,14 +5007,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/sagar-haveli-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_Sagar_Haveli_Bikaner-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-Sagar-Haveli.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-sagar-haveli-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507802791.jpg?k=f1d5763196e0d5a4b6f902e5068915cf861f6ebed3b2b3fb288b74490009fa1b&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507802779.jpg?k=8e3edc4f4612a7ae8daf68701724eba08935c50061204676bf427607bb7ad889&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507802780.jpg?k=fcf6256be052abaee4fc5d99acb6245cfd234c3316873c761f4f51f242828783&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507802794.jpg?k=004c6e3b419b2515c9e162a412881989c600e02eac8e5325670611706f1818f4&o=",
       "description": "Hotel Sagar Haveli offers a blend of traditional Rajasthani architecture and modern amenities, featuring a swimming pool and spa services."
     },
     {
-      "id": 256,
+      "id": 257,
       "name": "Hotel Marudhar Palace",
       "city": "Bikaner",
       "star_rating": 2,
@@ -5123,14 +5026,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/marudhar-palace-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_Marudhar_Palace-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-Marudhar-Palace.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-marudhar-palace-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/556814784.jpg?k=b8c8e80ed01852a816d1a659274f0974414be0e10a0a7f42a6bbd3f615e05073&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/556814905.jpg?k=e4da9dd10f140b5a17d8cd6cf831af9e78bdcb9b6a09c4f659b6ace80ddbf858&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/556814946.jpg?k=8ed5ec0a5fc3283e7efe0d2fd707b8c2c46cf426ce861d68ca614ff8adf3424c&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/556814775.jpg?k=03aa75befcc22f4ad48841d72a9c009ca79a0d179efab41b4cd7c961ccf26735&o=",
       "description": "Situated in Adarsh Colony, Hotel Marudhar Palace offers well-furnished rooms with essential amenities, providing a comfortable stay for guests."
     },
     {
-      "id": 257,
+      "id": 258,
       "name": "Hotel Raj Vilas Palace",
       "city": "Bikaner",
       "star_rating": 4,
@@ -5144,14 +5047,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/raj-vilas-palace-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_Raj_Vilas_Palace-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-Raj-Vilas-Palace.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-raj-vilas-palace-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528656542.jpg?k=12de7eeca43c818b3d55c379905b27453c33889a25f02d9062cd2b5f313f0ccf&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/583972779.jpg?k=07c8fece972dfb29cd24dc77f700ad1310ab2b6b688268b4011ea978d663c326&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/583973340.jpg?k=a1fe067db271e334de77be919cee071e28ee90d4497ad7e630591b2f3969ae7a&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/536150893.jpg?k=0f8e1ac8bab06bcc0ba8149f4de245deff080936c7f977a7280ebcb759a05ba3&o=",
       "description": "Hotel Raj Vilas Palace offers luxurious accommodations with royal Rajasthani decor, located near the historic Junagarh Fort."
     },
     {
-      "id": 258,
+      "id": 259,
       "name": "Hotel The Ganga Resort",
       "city": "Bikaner",
       "star_rating": 3,
@@ -5165,14 +5068,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/the-ganga-resort-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_The_Ganga_Resort-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-The-Ganga-Resort.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-the-ganga-resort-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413716733.jpg?k=8e236682c6e090ea36ab877b8ea6e396b465d1199338debed9a45a3d541260af&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413716723.jpg?k=5cd52f1e40fb15e2109ce371fc735612d680b7f26f481d0879734b1a9371f3db&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413716749.jpg?k=cccd41a18bfb7b16ce5a768603ff7248271830ae3c3256cee07322a5798f0b76&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413716695.jpg?k=0f74595a0d7ff1dacf92d76316e135a8cbb60112b42e08ec1a20860c0a5aee30&o=",
       "description": "Located in Gajner, The Ganga Resort offers a serene environment with luxurious amenities, including a spa and outdoor pool."
     },
     {
-      "id": 259,
+      "id": 260,
       "name": "Hotel Sagar Niwas",
       "city": "Bikaner",
       "star_rating": 2,
@@ -5184,14 +5087,14 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/sagar-niwas-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_Sagar_Niwas-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-Sagar-Niwas.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-sagar-niwas-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/709901044.jpg?k=2e1078951ca6dc714927b3e555bdbc36dde113352c36d4b810d4427185f13efa&o=",
+      "image2_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/710242534.jpg?k=a78c1800107766cd75b176ef91d0c1626e2438bc5f9da5ac75f55c0cc399f266&o=",
+      "image3_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286929779.jpg?k=86a85d6a525b73217554854a799f31805652f6d85004ae61e3dbdd810c7ea1e5&o=",
+      "image4_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/710242478.jpg?k=ed12e4afa9e85f53b2deadb0d5347fbf0dcfde2aa6718902494a2c58fe79f8cd&o=",
       "description": "Hotel Sagar Niwas provides budget-friendly accommodations with essential amenities, ideal for short stays near the railway station."
     },
     {
-      "id": 260,
+      "id": 261,
       "name": "Hotel Bikalal",
       "city": "Bikaner",
       "star_rating": 3,
@@ -5205,10 +5108,10 @@ export const HotelData=[
         "Restaurant",
         "Free WiFi"
       ],
-      "image1_url": "https://www.booking.com/hotel/in/bikalal-bikaner.html",
-      "image2_url": "https://www.tripadvisor.com/Hotel_Review-g297666-d13447870-Reviews-Hotel_Bikalal-Bikaner_Bikaner_District_Rajasthan.html",
-      "image3_url": "https://www.expedia.com/Bikaner-Hotels-Hotel-Bikalal.h32852110.Hotel-Information",
-      "image4_url": "https://www.goibibo.com/hotels/hotel-bikalal-bikaner-hotel-in-bikaner-ct/",
+      "image1_url": "https://media.istockphoto.com/id/1370825295/photo/modern-hotel-room-with-double-bed-night-tables-tv-set-and-cityscape-from-the-window.jpg?s=612x612&w=0&k=20&c=QMXz9HJVhU-8MtBYyeJxtqLz90j7r0SrR6FTWniPkgc=",
+      "image2_url": "https://media.istockphoto.com/id/1050564510/photo/3d-rendering-beautiful-luxury-bedroom-suite-in-hotel-with-tv.jpg?s=612x612&w=0&k=20&c=ZYEso7dgPl889aYddhY2Fj3GOyuwqliHkbbT8pjl_iM=",
+      "image3_url": "https://assets-news.housing.com/news/wp-content/uploads/2022/11/25115530/image6-20.jpg",
+      "image4_url": "https://t3.ftcdn.net/jpg/02/71/08/28/360_F_271082810_CtbTjpnOU3vx43ngAKqpCPUBx25udBrg.jpg",
       "description": "Hotel Bikalal offers a blend of traditional Rajasthani hospitality and modern amenities, located near the historic Junagarh Fort."
     }
   ]
