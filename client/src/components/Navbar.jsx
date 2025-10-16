@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { assets } from "../assets/assets";
 import { useClerk, useUser, UserButton } from "@clerk/clerk-react";
+import { Search } from "lucide-react";
 
 const Navbar = () => {
     const { openSignIn } = useClerk();
@@ -88,10 +89,10 @@ const Navbar = () => {
                     {/* Search Icon */}
                     <button
                         onClick={() => setShowSearchPopup((prev) => !prev)}
-                        className="text-xl hover:scale-110 transition-transform"
+                        className="text-xl hover:scale-110 transition-transform cursor-pointer"
                         title="Search hotels"
                     >
-                        🔍
+                        <Search />
                     </button>
 
                     {user ? (

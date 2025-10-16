@@ -10,6 +10,10 @@
   font-family:Outfit;
 }
 
+button{
+  cursor: pointer;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
