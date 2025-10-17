@@ -16,8 +16,7 @@ const Navbar = () => {
     const [showSearchPopup, setShowSearchPopup] = useState(false);
     const [searchText, setSearchText] = useState("");
     const [suggestions, setSuggestions] = useState([]);
-
-    // 🏨 Dummy suggestion data (replace with your own)
+    
     const hotels = [
         "Umaid Bhawan Palace",
         "Taj Lake Palace",
